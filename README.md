@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhosh Pandi K</h1>
-<h3 align="center">An Optimistic sapling with lot of fruits(Knowledge).</h3>
+<h3 align="center">none</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshpandi&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshpandi" /> </p>
 
@@ -7,25 +7,25 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **new place to grow(Placement preparation)**
+- 🔭 I’m currently working on **none**
 
-- 🌱 I’m currently learning **BTech.IT**
+- 🌱 I’m completed **BTech.IT**
 
-- 👯 I’m looking to collaborate on **Good Persons with coding habit**
+- 👯 I’m looking to collaborate on **none**
 
-- 🤝 I’m looking for help with **persons with coding as hobby**
+- 🤝 I’m looking for help with **none**
 
 - 👨‍💻 All of my projects are available at [None](None)
 
 - 📝 I regularly write articles on [None](None)
 
-- 💬 Ask me about **Placement Preparation**
+- 💬 Ask me about **none**
 
 - 📫 How to reach me **santhoshpandi543@gmail.com**
 
 - 📄 Know about my experiences [None](None)
 
-- ⚡ Fun fact **Act like a joker, think like a genius.**
+- ⚡ Fun fact **none**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
