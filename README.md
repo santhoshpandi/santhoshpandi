@@ -2,7 +2,7 @@
   <img align="center" alt="Coding" src="https://github.com/user-attachments/assets/ad684173-a22a-4703-b141-e1a70e69eb9c">
 </center><br/>
 <h1 align="center">Hi 👋, I'm Santhosh Pandi K</h1>
-<h3 align="center">A passionate Fullstack developer from TamilNadu,India</h3>
+<h3 align="center">A passionate Fullstack developer from TamilNadu</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=santhoshpandi&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshpandi" /> </p>
