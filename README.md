@@ -1,6 +1,10 @@
+<center>
 
+  <img align="center" alt="Coding" src="https://github.com/user-attachments/assets/3147b4e3-dfc6-4bc4-bbef-f3160284830e">
+</center><br/>
 <h1 align="center">Hi 👋, I'm Santhosh Pandi K</h1>
 <h3 align="center">A passionate Fullstack developer from TamilNadu,India</h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=santhoshpandi&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshpandi" /> </p>
 
