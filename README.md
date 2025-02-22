@@ -1,6 +1,5 @@
 <center>
-
-  <img align="center" alt="Coding" src="https://github.com/user-attachments/assets/3147b4e3-dfc6-4bc4-bbef-f3160284830e">
+  <img align="center" alt="Coding" src="https://github.com/user-attachments/assets/ad684173-a22a-4703-b141-e1a70e69eb9c">
 </center><br/>
 <h1 align="center">Hi 👋, I'm Santhosh Pandi K</h1>
 <h3 align="center">A passionate Fullstack developer from TamilNadu,India</h3>
