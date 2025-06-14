@@ -10,9 +10,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhoshpandi" alt="santhoshpandi" /></a> </p>
 <h2 align="center">About Me💖:</h2>
 
-<table align="center">
+<table align="center" style="border:none;">
   <tr>
-    <td style="width: 60%; vertical-align: top;">
+    <td style="width: 60%; vertical-align: top; border:none;">
       <p>
         - 🌱 I’m currently learning <code>Fullstack & Datastructures</code> <br><br>
         - 👨‍💻 All of my projects are available at my <a href="https://santhoshpandi.github.io/portfolio/">portfolio</a><br><br>
@@ -22,7 +22,7 @@
         - ⚡ Fun fact: <code>I like cartoons</code>
       </p>
     </td>
-    <td style="width: 40%; text-align: center;">
+    <td style="width: 40%; text-align: center; border:none;">
       <img src="https://github.com/user-attachments/assets/27065b6a-b611-438e-9790-dbc9d9c9b441" alt="Profile Image" style="width: 250px; height: auto;" />
     </td>
   </tr>
