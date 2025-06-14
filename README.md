@@ -10,17 +10,27 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhoshpandi" alt="santhoshpandi" /></a> </p>
 <h2 align="center">About Me💖:</h2>
 
-- 🌱 I’m currently learning `Fullstack & Datastructures`
+<p>
+  <p>
+  - 🌱 I’m currently learning Fullstack & Datastructures
+  
+  - 👨‍💻 All of my projects are available at my [portfolio](https://santhoshpandi.github.io/portfolio/)
+  
+  - 💬 Ask me about `Anything`
+  
+  - 📫 How to reach me **santhoshpandi543@gmail.com**
+  
+  - 📄 Know about my experiences [Resume Link](https://santhoshpandi.github.io/portfolio/assets/resume/my_resume.pdf)
+  
+  - ⚡ Fun fact `I like cartoons`
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://santhoshpandi.github.io/portfolio/)
+  </p> 
 
-- 💬 Ask me about `Anything`
+  <p>
+   <img src="https://github.com/user-attachments/assets/27065b6a-b611-438e-9790-dbc9d9c9b441" />
 
-- 📫 How to reach me **santhoshpandi543@gmail.com**
-
-- 📄 Know about my experiences [Resume Link](https://santhoshpandi.github.io/portfolio/assets/resume/my_resume.pdf)
-
-- ⚡ Fun fact `I like cartoons`
+  </p>
+</p>
 
 <hr>
 
