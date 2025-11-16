@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=santhoshpandi&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshpandi" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhoshpandi" alt="santhoshpandi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk&row=2&column=5&margin-w=10&margin-h=10&no-frame=true" alt="santhoshpandi" /></a> </p>
 <h2 align="center">About Me💖:</h2>
 
 <table align="center" style="border:none;">
